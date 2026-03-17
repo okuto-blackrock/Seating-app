@@ -2,7 +2,8 @@ import streamlit as st
 import random
 import json
 
-st.set_page_config(page_title=“席替えアプリ”, page_icon=“🪑”, layout=“wide”)
+st.set_page_config(page_title="席替えアプリ", page_icon="🪑", layout="wide")
+
 
 st.markdown(”””
 
